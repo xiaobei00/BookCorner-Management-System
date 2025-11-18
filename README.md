@@ -10,8 +10,8 @@
 - 📊 借阅记录统计
 
 ## UML设计
-- [用例图](./docs/uml/use-case-diagram.png)
-- [类图](./docs/uml/class-diagram.png)
+- [用例图](./docs/uml/use-case-diagram.png.png)
+- [类图](./docs/uml/class-diagram.png.png)
 
 ## 技术栈
 - 前端: HTML/CSS/JavaScript
